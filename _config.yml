@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Boris Meinardus"
+  name             : "Somak Goswami"
   avatar           : "Profile_pic2.png"
-  bio              : "Multi-Modal Learning \n under Prof. Marcus Rohrbach"
-  location         : "Berlin/ Darmstadt, Germany"
-  employer         : "TU Darmstadt"
+  bio              : "Bachelor Thesis on Radar-based Biomedical Analysis \n under Prof. Sandip Chakraborty"
+  location         : "Kharagpur, West Bengal, India"
+  employer         : "IIT Kharagpur"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=UMKkDVwAAAAJ"
-  email            : "boris.meinardus00@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=jphH1v8AAAAJ"
+  email            : "somakg842@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,24 +96,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sudo-Boris"
+  github           : "toastedjames"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "boris-meinardus-ba2302177"
+  linkedin         : "goswami-somak"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "BorisMeinardus"
+  twitter          : "somakg842"
   vine             :
   weibo            :
   xing             :
-  youtube          : "@borismeinardus"
+  youtube          : #"@borismeinardus"
   wikipedia        :
 
 
