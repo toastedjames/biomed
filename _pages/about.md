@@ -11,7 +11,7 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
+👨🏻‍💻 I'm a final year undergraduate student at the SRM Institute of Science and Technology, Kattankulathur.
 
 🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
 
