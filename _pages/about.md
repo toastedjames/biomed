@@ -10,16 +10,13 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
 👨🏻‍💻 I'm a final year undergraduate student at the SRM Institute of Science and Technology, Kattankulathur.
 
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
+🔬 My research interest is in integrating signal processing to solve biomedical problems!
 
-📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling.
+📚 I'm currently working towards my Bachelor's Thesis in the field of Biomedical Radar Sensing at Indian Institute of Technology, Kharagpur
 
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
-
-# Selected Experience
+# Bachelor Thesis 
 
 ## 🤖 Open Source Contributions
 I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
