@@ -31,13 +31,15 @@ Radar data is preprocessed using Python with bandpass and Savitzky-Golay filters
 Hardware: IWR1843 radar kit, DCA1000EVM, Empatica E4.
 
 Software: Python (NumPy, SciPy, Matplotlib) on Google Colab.
-          Custom-made Python packages that ensure efficient processing of large binary files containing doppler values (Repo link will be later added!)
+          Custom-made Python packages that ensure efficient processing of large binary files containing doppler values (Repo link will be added later!)
 
 ## Key Findings:
 [Preliminary results](https://drive.google.com/file/d/1G6Jy-EOB2NYpfBtVolBYQ0lGKT9mMzh5/view) reveal distinct respiratory patterns for COPD patients compared to normal subjects. Heatmaps and range profiles validate these insights.
 
 ## Challenges and Continuing Work:
 Managing large binary datasets and optimizing real-time signal processing remain challenging. Work is ongoing to improve SNR calculations and refine respiratory rate accuracy.
+
+The subsequent conference paper is submitted to IEEE PerCom 2025 Work-in-Progress (WiP) session.
 
 # ⭐ Final Year Project
 ## Project Overview:
