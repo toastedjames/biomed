@@ -16,7 +16,7 @@ redirect_from:
 
 📚 I'm currently working towards my Bachelor's Thesis in the field of Biomedical Radar Sensing at Indian Institute of Technology, Kharagpur
 
-# Bachelor Thesis 
+# ⭐ Bachelor Thesis 
 ## Project Overview:
 This project analyzes respiratory patterns in normal and COPD patients using radar signal processing to detect differences under conditions like resting, walking, running, and climbing stairs.
 
@@ -39,7 +39,7 @@ Software: Python (NumPy, SciPy, Matplotlib) on Google Colab.
 ## Challenges and Continuing Work:
 Managing large binary datasets and optimizing real-time signal processing remain challenging. Work is ongoing to improve SNR calculations and refine respiratory rate accuracy.
 
-# Final Year Project
+# ⭐ Final Year Project
 
 
 
